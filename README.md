@@ -34,15 +34,11 @@ Especificos:
 
 Marco teorico:
 
-![](
+![](https://github.com/diego333jose/Informe-laboratorio-9/blob/main/Imagenes/imagen_2022-02-21_210657.png)
 
 - Ejercicios:
 
-![](
-
-![](
-
-![](
+![](https://github.com/diego333jose/Informe-laboratorio-9/blob/main/Imagenes/PR%C3%81CTICA%209%20(1)_page-0001.jpg)
 
 Conclusiones:
 

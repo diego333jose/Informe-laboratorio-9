@@ -40,6 +40,16 @@ Marco teorico:
 
 ![](https://github.com/diego333jose/Informe-laboratorio-9/blob/main/Imagenes/PR%C3%81CTICA%209%20(1)_page-0001.jpg)
 
+- Calculadora:
+
+![](https://github.com/diego333jose/Informe-laboratorio-9/blob/main/Imagenes/Capturas%20Calculadora_page-0001.jpg)
+
+![](https://github.com/diego333jose/Informe-laboratorio-9/blob/main/Imagenes/Capturas%20Calculadora_page-0002.jpg)
+
+![](https://github.com/diego333jose/Informe-laboratorio-9/blob/main/Imagenes/Capturas%20Calculadora_page-0003.jpg)
+
+![](https://github.com/diego333jose/Informe-laboratorio-9/blob/main/Imagenes/Capturas%20Calculadora_page-0004.jpg)
+
 Conclusiones:
 
 

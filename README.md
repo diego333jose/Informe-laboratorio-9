@@ -52,7 +52,7 @@ Marco teorico:
 
 Conclusiones:
 
-
+- En el caso de multiplicaciones y divisiones resulta mucho mas facil el uso de los números en forma polar
 
 Recomendaciones:
 
